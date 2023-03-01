@@ -284,3 +284,87 @@ mkdir VISA
 ls
 cd VISA
 vim
+git
+git status]
+git status
+git innit
+ls
+clear
+git
+clear
+git status
+ls -a
+git init 
+sudo su simon 
+hostname
+sudo hostname
+sudo hostname devs
+sudo su ola
+hostname
+git status
+clear
+hostname
+sudo hostname dev
+sudo su simon
+cat /etc/passwd
+vim /etc/sudoers
+sudo vim /etc/sudoers
+clear
+sudo vi/etc/passwd
+vi/etc/passwd
+sudo vi/etc/passwd
+sudo vim /etc/sudoers
+sudo su obi
+git status
+sudo su obi
+git add cases
+sudo git add cases
+git status
+git add cases
+ls
+cat if.sh
+sh if.sh
+clear
+ls
+cat apache.sh
+ls
+clear
+ls
+git add apache.sh
+git status
+git 
+git status
+git add switch.sh
+git status
+git add *
+git status
+git add .
+git status
+git rm .
+git rm -r .
+git rm --cached
+git rm --cached .
+sudo su obi
+clear
+git log
+sudo su simon
+yum remove git
+sudo yum remove git
+ls
+clear
+sudo yum install git
+ls
+clear
+hostname
+sudo hostname devs
+sudo su simon
+pwd
+su simon
+git init
+cd /home/ec2-user/.git/
+git status
+sudo git status
+clear
+exit 
+hostname
+exit

@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1677695748,,"wq!"
 :qa!
 |2,0,1677687478,,"qa!"
-:wq!
-|2,0,1677314316,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -30,14 +30,22 @@
 |3,1,1,1,1,0,1677315092," "
 
 # File marks:
-'0  1  0  /etc/sudoers
-|4,48,1,0,1677687478,"/etc/sudoers"
-'1  2  4  /etc/sudoers
-|4,49,2,4,1677314355,"/etc/sudoers"
+'0  3  35  ~/deploy.py
+|4,48,3,35,1677695748,"~/deploy.py"
+'1  1  0  /etc/sudoers
+|4,49,1,0,1677687478,"/etc/sudoers"
 '2  2  4  /etc/sudoers
 |4,50,2,4,1677314355,"/etc/sudoers"
+'3  2  4  /etc/sudoers
+|4,51,2,4,1677314355,"/etc/sudoers"
 
 # Jumplist (newest first):
+-'  3  35  ~/deploy.py
+|4,39,3,35,1677695748,"~/deploy.py"
+-'  1  0  ~/deploy.py
+|4,39,1,0,1677695362,"~/deploy.py"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1677687478,"/etc/sudoers"
 -'  1  0  /etc/sudoers
 |4,39,1,0,1677687478,"/etc/sudoers"
 -'  2  4  /etc/sudoers
@@ -46,12 +54,33 @@
 |4,39,2,4,1677314355,"/etc/sudoers"
 -'  2  4  /etc/sudoers
 |4,39,2,4,1677314355,"/etc/sudoers"
+-'  2  4  /etc/sudoers
+|4,39,2,4,1677314355,"/etc/sudoers"
+-'  2  4  /etc/sudoers
+|4,39,2,4,1677314355,"/etc/sudoers"
+-'  2  4  /etc/sudoers
+|4,39,2,4,1677314355,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1677314238,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1677314238,"/etc/sudoers"
 -'  1  0  /etc/sudoers
 |4,39,1,0,1677314238,"/etc/sudoers"
 -'  1  0  /etc/sudoers
 |4,39,1,0,1677314238,"/etc/sudoers"
 
 # History of marks within files (newest to oldest):
+
+> ~/deploy.py
+	*	1677695743	0
+	"	3	35
+	^	3	36
+	.	4	0
+	+	3	5
+	+	2	11
+	+	3	20
+	+	3	36
+	+	4	0
 
 > /etc/sudoers
 	*	1677314318	0
